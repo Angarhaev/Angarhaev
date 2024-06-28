@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDV3em04ZGV0N2ZxYzU1djYzemVqaDV6M2FtYzZ5Yzl6ZGlyamh1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ygAaR0n5RsyAM/giphy.gif" width="380"/>
 </div>
-<h1>
+<h1 align="center">
   Всем привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -38,8 +38,5 @@ ___
 
 ### :fire: Статистика :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Angarhaev&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Angarhaev)](https://git.io/streak-stats)
 
