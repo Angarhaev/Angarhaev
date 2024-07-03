@@ -13,7 +13,7 @@
 ___ 
 ### :mailbox: Мои контакты:
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/moskvin-angarkhaev-a63147316/">
+  <a href="https://www.linkedin.com/in/%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B8%D0%BD-%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D1%85%D0%B0%D0%B5%D0%B2-a63147316?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1y1QGfTISWit1hqIJwgHsw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/u/moskvin_an/">
