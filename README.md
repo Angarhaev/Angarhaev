@@ -6,9 +6,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  
-Меня зовут Москвин и я Python-разработчик в НИЦ ЦТ :man_technologist: . Занимаюсь развитием отечественного it сектора.
+Меня зовут Москвин и я Python-разработчик в НИЦ ЦТ :man_technologist: . Пишу код.
 
 В свободное время смотрю обучающие видео на youtube и решаю задачи на leetcode
+
+Вот.
 
 ___ 
 ### :mailbox: Мои контакты:
